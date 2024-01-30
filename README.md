@@ -1,10 +1,12 @@
 # Network showing the structure of functions within the tbvax package:
 
-tbvax is run using two main functions set.paths() and run(). However, each of these calls downstream functions, which are mapped below.
+Tbvax is a model of TB transmission and various preventative strategies, including vaccination, treatment, etc., developped at the London School of Hygiene and Tropcial Medicine [Link][https://github.com/lshtm-tbmg]. Tbvax runs  two main functions: set.paths() and run(). However, these both call many downstream functions, forming a network. To visualize this network I have created a ShinyApp generated with the scritps included in this repository.    
 
-&nbsp;
-<br />
-&nbsp;
-<br />
+The ShinyApp is available here: [Link][https://topj.shinyapps.io/func_network_app/]
 
-gtesxt
+## About the app:
+
+  
+
+
+
