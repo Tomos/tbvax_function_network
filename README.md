@@ -8,7 +8,7 @@ The ShinyApp is available here: https://topj.shinyapps.io/func_network_app/
 
 ![Image description](Network_screengrab.png)
 
-The application allows nodes (representing functions) to be selected, and here we see that run() has been selected
+The application allows nodes (representing functions) to be selected, and here we see that run() has been chosen. The network highlights the selected node, and all nodes that are connected to the selected node by a single edge (network connection). Given run() is one of the main coordinating functions, we can see that it connects to many downstream functions. Blue edges represent functions calling other functions, whereas I added the red edges to the network for clarity, as they show the order in which the functions below run() are called (progressing clock-wise in this version of the network).   
   
 
 
