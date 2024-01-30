@@ -1,0 +1,11 @@
+*.txt -crlf
+*.xml -crlf
+*.R -crlf
+*.xsd -crlf
+*.pper -crlf
+*.Rproj -crlf
+*.Rd -crlf
+*.Rhistory -crlf
+*.io -crlf
+*.tar.gz -crlf
+*.gz -crlf

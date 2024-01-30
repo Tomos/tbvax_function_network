@@ -1,0 +1,10 @@
+name: func_network_app
+title:
+username: topj
+account: topj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11072059
+bundleId: 8198713
+url: https://topj.shinyapps.io/func_network_app/
+version: 1

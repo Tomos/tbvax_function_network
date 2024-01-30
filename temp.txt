@@ -1,0 +1,21 @@
+_C_o_n_v_e_r_t _a _v_e_c_t_o_r _o_f _s_t_a_t_e _v_a_r_i_a_b_l_e_s _t_o _a _m_a_t_r_i_x
+
+_D_e_s_c_r_i_p_t_i_o_n:
+
+     ‘Y.matrix.from.X.vector()’ converts a vector X of state variables
+     to a matrix Y using parameters p
+
+_U_s_a_g_e:
+
+     Y.matrix.from.X.vector(X, p)
+     
+_A_r_g_u_m_e_n_t_s:
+
+       X: a double[] vector of state variables
+
+       p: an environment with initialized model parameters
+
+_V_a_l_u_e:
+
+     a ‘double [p$nVXaSESRISKHIVTB x p$nAGES]’ of state variables
+
