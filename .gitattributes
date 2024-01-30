@@ -9,3 +9,4 @@
 *.io -crlf
 *.tar.gz -crlf
 *.gz -crlf
+*.png -crlf
